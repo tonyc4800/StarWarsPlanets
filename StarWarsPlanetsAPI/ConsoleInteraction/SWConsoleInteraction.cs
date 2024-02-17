@@ -34,7 +34,7 @@ internal class SWConsoleInteraction : ISWConsoleInteraction
                 continue;
             }
 
-            input = char.ToUpper(input[0]) + input.Substring(1);
+            input = char.ToUpper(input[0]) + input.Substring(1).ToLower();
             
             return input;
         }
