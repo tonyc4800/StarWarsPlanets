@@ -1,0 +1,14 @@
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\StarWarsPlanetsAPI\obj\Debug\net6.0\StarWarsPlanetsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\StarWarsPlanetsAPI\obj\Debug\net6.0\StarWarsPlanetsAPI.AssemblyInfoInputs.cache
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\StarWarsPlanetsAPI\obj\Debug\net6.0\StarWarsPlanetsAPI.AssemblyInfo.cs
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\StarWarsPlanetsAPI\obj\Debug\net6.0\StarWarsPlanetsAPI.csproj.CoreCompileInputs.cache
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\StarWarsPlanetsAPI\bin\Debug\net6.0\StarWarsPlanetsAPI.exe
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\StarWarsPlanetsAPI\bin\Debug\net6.0\StarWarsPlanetsAPI.deps.json
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\StarWarsPlanetsAPI\bin\Debug\net6.0\StarWarsPlanetsAPI.runtimeconfig.json
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\StarWarsPlanetsAPI\bin\Debug\net6.0\StarWarsPlanetsAPI.dll
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\StarWarsPlanetsAPI\bin\Debug\net6.0\StarWarsPlanetsAPI.pdb
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\StarWarsPlanetsAPI\obj\Debug\net6.0\StarWarsPlanetsAPI.dll
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\StarWarsPlanetsAPI\obj\Debug\net6.0\refint\StarWarsPlanetsAPI.dll
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\StarWarsPlanetsAPI\obj\Debug\net6.0\StarWarsPlanetsAPI.pdb
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\StarWarsPlanetsAPI\obj\Debug\net6.0\StarWarsPlanetsAPI.genruntimeconfig.cache
+C:\Users\ironm\Desktop\CSharpCourse\CSharpAdvanced\TestMode\StarWarsPlanetsAPI\obj\Debug\net6.0\ref\StarWarsPlanetsAPI.dll
